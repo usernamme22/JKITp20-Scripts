@@ -1,0 +1,5 @@
+jack:users:abc123!$:/bin/bash
+michael:cybersecurity:321!%:/bin/sh
+oksana:accounting:233qpsacb:/bin/bash
+elizabet:administrators:aasd123:/bin/sh
+root:
